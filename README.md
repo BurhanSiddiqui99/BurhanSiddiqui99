@@ -15,6 +15,9 @@
     <img src="https://skillicons.dev/icons?i=ts,js,py,html,css,&perline=7"/>
 </p>
 
+<br />
+
+---
 
 #### Frameworks, platforms, and libraries:
 
