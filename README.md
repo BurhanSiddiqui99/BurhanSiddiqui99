@@ -9,6 +9,10 @@
   <p style="color: #666; font-size: 16px; margin-bottom: 0;">I am creating user-friendly and efficient web applications using a variety of web development tools. My expertise includes HTML, CSS, JavaScript, Next, React, and more.</p>
 </div>
 
+<div style="background-color: #f8f8f8; display: inline-block;">
+  [Click me!](#){.button}
+</div>
+
 <br />
 
 ---
