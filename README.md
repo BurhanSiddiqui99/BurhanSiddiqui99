@@ -19,8 +19,30 @@
 
 [![Button Click]][Link] 
 [![Button Hover]][Link] 
-[Link]: # 'Link with example title.'
+
 <br>
+
+```markdown
+[![Button Example]][Link]
+```
+
+```markdown
+<!----------------------------------------------------------------------------->
+```
+
+```markdown
+[Link]: # 'Link with example title.'
+```
+
+```markdown
+<!---------------------------------[ Buttons ]--------------------------------->
+```
+
+```markdown
+[Button Example]: https://img.shields.io/badge/Title-37a779?style=for-the-badge
+```
+
+
 
 
 #### Languages:
