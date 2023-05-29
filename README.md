@@ -8,9 +8,9 @@
   <h2 style="color: #333; font-size: 24px; font-weight: bold; margin-bottom: 10px;">Software Developer</h2>
   <p style="color: #666; font-size: 16px; margin-bottom: 0;">I am creating user-friendly and efficient web applications using a variety of web development tools. My expertise includes HTML, CSS, JavaScript, Next, React, and more.</p>
 </div>
-
-[Success Button Text](#link){: .btn .btn--success}
-
+<div style="background-color: #f8f8f8;">
+[Success Button Text](#link)
+</div>
 #### Languages:
 
 <p align="left">
