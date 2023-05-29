@@ -10,8 +10,8 @@
 </div>
 
 #### Resume:
-
-<button style="background-color: #000000;>Resume</button>
+> :Buttons
+> > :Button label=Resume, url=(https://drive.google.com/file/d/15yDW7IuAF5RAxBSW-wRnv64SjwXxP7sU/view?usp=drive_link)
 
 #### Languages:
 
