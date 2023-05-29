@@ -10,8 +10,9 @@
 </div>
 
 #### Resume:
-> :Buttons
-> > :Button label=Resume, url=(https://drive.google.com/file/d/15yDW7IuAF5RAxBSW-wRnv64SjwXxP7sU/view?usp=drive_link)
+:Buttons
+:Button label=Resume, url=(https://drive.google.com/file/d/15yDW7IuAF5RAxBSW-wRnv64SjwXxP7sU/view?usp=drive_link)
+
 
 #### Languages:
 
