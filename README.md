@@ -1,5 +1,4 @@
 ### Hey there, I'm Burhan Al Haq Siddiqui <img src="https://media.giphy.com/media/h8NnG7uDobXO576L0G/giphy.gif" width="60" height="60" />
-### I'm a developer and designer
 
 <p align="center">
 <br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
