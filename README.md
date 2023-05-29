@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=094EFF&multiline=true&width=435&height=60&lines=Hi%2C+My+name+is+Burhan+Al+Haq+Siddiqui;I'm+Software+Developer+&+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=094EFF&multiline=true&width=435&height=60&lines=Hi%2C+My+name+is+Burhan+Al+Haq+Siddiqui ;I'm+Software+Developer+&+Designer)](https://git.io/typing-svg)
 
 <p align="center">
 <br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
