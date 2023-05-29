@@ -9,6 +9,10 @@
   <p style="color: #666; font-size: 16px; margin-bottom: 0;">I am creating user-friendly and efficient web applications using a variety of web development tools. My expertise includes HTML, CSS, JavaScript, Next, React, and more.</p>
 </div>
 
+<br />
+
+---
+
 #### Languages:
 
 <p align="left">
@@ -25,15 +29,27 @@
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,nextjs,react,&perline=7"/>
 </p>
 
+<br />
+
+---
+
 #### Databases:
 
 <p align="left">
     <img src="https://skillicons.dev/icons?i=mongodb,firebase&perline=7"/>
 </p>
 
+<br />
+
+---
+
 #### Tools:
 
 <p align="left">
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,wordpress,xd,remix,ps,ai&perline=7"/>
 </p>
+
+<br />
+
+---
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
