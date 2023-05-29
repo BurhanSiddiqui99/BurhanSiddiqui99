@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=094EFF&multiline=true&width=435&height=60&lines=Hi%2C+My+name+is+Burhan+Al+Haq+Siddiqui ;I'm+Software+Developer+&+Designer)](https://git.io/typing-svg)
+### Hey there, I'm Burhan Al Haq Siddiqui <img src="https://media.giphy.com/media/h8NnG7uDobXO576L0G/giphy.gif" width="60" height="60" />
+### I'm a developer and designer
 
 <p align="center">
 <br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
