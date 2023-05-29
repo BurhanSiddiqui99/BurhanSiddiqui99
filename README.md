@@ -9,41 +9,6 @@
   <p style="color: #666; font-size: 16px; margin-bottom: 0;">I am creating user-friendly and efficient web applications using a variety of web development tools. My expertise includes HTML, CSS, JavaScript, Next, React, and more.</p>
 </div>
 
-#### Resume:
-
-# Shield Buttons
-
-*You can use **Badges** as buttons.*
-
-<br>
-
-[![Button Click]][Link] 
-[![Button Hover]][Link] 
-
-<br>
-
-```markdown
-[![Button Example]][Link]
-```
-
-```markdown
-<!----------------------------------------------------------------------------->
-```
-
-```markdown
-[Link]: # 'Link with example title.'
-```
-
-```markdown
-<!---------------------------------[ Buttons ]--------------------------------->
-```
-
-```markdown
-[Button Example]: https://img.shields.io/badge/Title-37a779?style=for-the-badge
-```
-
-
-
 
 #### Languages:
 
