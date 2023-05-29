@@ -10,7 +10,7 @@
 </div>
 
 <div style="background-color: #f8f8f8; display: inline-block;">
-  [Click me!](#){.button}
+  [Click me!](#)
 </div>
 
 <br />
