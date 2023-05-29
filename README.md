@@ -10,9 +10,17 @@
 </div>
 
 #### Resume:
-```markdown
-[![Button Example]][Link]
-```
+
+# Shield Buttons
+
+*You can use **Badges** as buttons.*
+
+<br>
+
+[![Button Click]][Link] 
+[![Button Hover]][Link] 
+
+<br>
 
 
 #### Languages:
