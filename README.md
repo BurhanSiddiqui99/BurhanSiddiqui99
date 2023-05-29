@@ -9,10 +9,6 @@
   <p style="color: #666; font-size: 16px; margin-bottom: 0;">I am creating user-friendly and efficient web applications using a variety of web development tools. My expertise includes HTML, CSS, JavaScript, Next, React, and more.</p>
 </div>
 
-<span class="fs-8">
-[Link button](http://example.com/){: .btn }
-</span>
-
 #### Languages:
 
 <p align="left">
