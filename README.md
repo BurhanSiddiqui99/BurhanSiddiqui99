@@ -17,7 +17,7 @@
 #### Languages:
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,html,css,&perline=7"/>
+    <img src="https://skillicons.dev/icons?i=ts,js,py,solidity,html,css,&perline=7"/>
 </p>
 
 <br />
