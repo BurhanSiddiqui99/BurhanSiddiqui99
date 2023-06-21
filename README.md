@@ -6,7 +6,7 @@
 
 <div style="background-color: #f8f8f8; padding: 20px; border-radius: 5px; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);">
   <h2 style="color: #333; font-size: 24px; font-weight: bold; margin-bottom: 10px;">Software Developer</h2>
-  <p style="color: #666; font-size: 16px; margin-bottom: 0;">I am creating user-friendly and efficient web applications using a variety of web development tools. My expertise includes HTML, CSS, JavaScript, Next, React, and more.</p>
+  <p style="color: #666; font-size: 16px; margin-bottom: 0;">I am creating user-friendly and efficient web applications using a variety of web development tools. My expertise includes HTML, CSS, JavaScript, Next, React, Solidity(Smart Contracts) and more.</p>
 </div>
 
 
